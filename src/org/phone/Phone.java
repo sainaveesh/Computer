@@ -6,7 +6,7 @@ public void phoneInfo(double price) {
 
 }
 public void phoneInfo(String ram) {
-	System.out.println("RAM of the mobile "+ram);
+	System.out.println("Love u more and more and more");
 }
 public void phoneInfo(String cam,long num) {
 	System.out.println("Camera pixels of the mobile "+cam);
