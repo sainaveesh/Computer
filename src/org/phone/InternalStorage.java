@@ -3,7 +3,11 @@ package org.phone;
 public class InternalStorage {
 
 	public void processorName() {
-		System.out.println("creating conflicts now");
+//<<<<<<< HEAD
+ System.out.println("Before Conflicts");
+//=======
+		
+
 
 	}
 
