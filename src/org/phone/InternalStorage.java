@@ -3,7 +3,7 @@ package org.phone;
 public class InternalStorage {
 
 	public void processorName() {
-		System.out.println("Snapdragon");
+		System.out.println("creating conflicts now");
 
 	}
 
